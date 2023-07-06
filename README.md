@@ -1,8 +1,10 @@
 # sql-challenge
 
 ## Data Modeling 
+
 ```Entity Relationship Diagram is included or table schemas provided for all tables
 ```
+
 ## Data Engineering 
 ```All required columns are defined for each table 
 Columns are set to the correct data type 
